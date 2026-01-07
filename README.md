@@ -13,8 +13,7 @@
 python -m pip install scikit-learn matplotlib
 
 快速运行
-替换为你的Python路径
-& C:/Users/你的用户名/AppData/Local/Python/pythoncore-3.14-64/python.exe yangyubin_multi_label_final.py
+& C:/lovedecimal/yangyubin-multi-label-text-classification/blob/main/yangyubin_multi_label_final.py
 
 运行结果（实测优秀指标）
 指标               结果     说明
